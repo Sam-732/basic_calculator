@@ -3,9 +3,10 @@
 int main(){
 
     char op;
-    int a;
-    int b;
+    double a;
+    double b;
     double result;
+    //now you cna also input decimal numbes 
 
     std::cout << "***** BASIC CALCULATOR  ******";
 
